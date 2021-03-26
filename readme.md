@@ -13,12 +13,12 @@
 
 DEMO credentials:
 ADMIN
-Username admin@example.com
-Password secret
+Username: admin@example.com
+Password: secret
 
 OWNER
-Username owner@example.com
-Password secret
+Username: owner@example.com
+Password: secret
 
 ## About Laravel
 
