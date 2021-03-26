@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## LiveSite - <https://zebra-qr.com/login>
+
+## Credentials
+
+DEMO credentials:
+ADMIN
+Username admin@example.com
+Password secret
+
+OWNER
+Username owner@example.com
+Password secret
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
