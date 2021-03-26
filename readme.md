@@ -71,6 +71,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-git diff --name-only f4385ecb7b9a7561cb0a93c03c1bfeb4303a56a5 29afc1ba0a31d4934f9777cc83bf0938a8a5442d > .diff-files.txt && npm run zipupdate
-
 COMPOSER_MEMORY_LIMIT=-1 composer require */**
