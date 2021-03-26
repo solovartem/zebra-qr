@@ -11,7 +11,8 @@
 
 ## Credentials
 
-DEMO credentials:
+<p> DEMO credentials: </p>
+
 ADMIN
 Username: admin@example.com
 Password: secret
